@@ -1,0 +1,1 @@
+docker build -t ffapch/jenkins:2.0 .
